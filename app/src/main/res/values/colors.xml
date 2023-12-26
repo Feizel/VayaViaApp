@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    My Colors-->
+    <color name="colorPrimary">#ff5613</color>
+    <color name="secondaryColor"></color>
+    <color name="textColor">#007AFF</color>
+    <color name="backgroundColor">#1c1c1c</color>
+    <color name="navColor">#1c2129</color>
+</resources>
